@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", "desc":"percobaan api kesekian kalinya", "image": "https://cdn.myanimelist.net/images/characters/2/366639.jpg" },
+    { "id": 1, "title": "Post 1", "desc":"percobaan api kesekian kalinya" },
     { "id": 2, "title": "Post 2", "desc":"percobaan api kedua kalinya" },
     { "id": 3, "title": "Post 3", "desc":"percobaan api ketiga kalinya" }
   ],

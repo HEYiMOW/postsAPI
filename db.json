@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "Post 1", "desc":"percobaan api kesekian kalinya" },
+    { "id": 2, "title": "Post 2", "desc":"percobaan api kedua kalinya" },
+    { "id": 3, "title": "Post 3", "desc":"percobaan api ketiga kalinya" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
